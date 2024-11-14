@@ -75,7 +75,7 @@ $(function () {
 });
 
 //Countdown for demo. Always add 18 days
-var someDate = new Date("september 8, 2024 23:59:59");
+var someDate = new Date("december 8, 2024 23:59:59");
 var numberOfDaysToAdd = 18;
 someDate.setDate(someDate.getDate() + numberOfDaysToAdd); 
 
